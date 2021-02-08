@@ -32,10 +32,9 @@ To determine
 
 To determine
 
-##### Quelima SQ12
+##### Camera
 
-Selected for beeing both inexpensive, powerfull and lightweight.
-
+* Device: Quelima SQ12
 * Form factor: Square
 * Measures: 2.3x2.3x2.3 cm
 * FOV: 155 Degrees
@@ -45,15 +44,16 @@ Selected for beeing both inexpensive, powerfull and lightweight.
 * Connector: mini-usb (usb-c would be handy)
 * Night vision: YES (up to 5m)
 
-##### Raspberry Pi 4
+##### External CPU
 
-* Version: RPI 4 model B
+* Device: RPI 4 model B
 * Memory: 8GB
 * Storage: SD 32GB
 * Consumption: 2A (estimated)
 
-##### Power bank 20000mah
+##### Battery
 
+* Device: Generic power bank
 * Capacity: 20000mah
 * Duration: ~10 hours (estimated)
 * Weight: 440g
